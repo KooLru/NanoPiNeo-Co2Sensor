@@ -1,15 +1,8 @@
-CO Sensor link
-
-Pinheader link
-
-Neopi Link  http://wiki.friendlyarm.com/wiki/index.php/NanoPi_NEO_Air https://www.friendlyarm.com/index.php?route=product/product&path=69&product_id=151
-
-
 # NanoPI CO2 Sensor hat
 
 ## Introduction
 NanoPI CO2 Sensor hat is a expansion board which has the same dimension as that of a NanoPi NEO/Air and can be stacked on:
-- [NanoPi NEO Air](https://www.friendlyarm.com/index.php?route=product/product&path=69&product_id=151)
+- [NanoPi NEO Air](https://www.friendlyarm.com/index.php?route=product/product&path=69&product_id=151) | [WIKI](http://wiki.friendlyarm.com/wiki/index.php/NanoPi_NEO_Air)
 - [NanoPi NEO-LTS](https://www.friendlyarm.com/index.php?route=product/product&path=69&product_id=132)
 - [NanoPi NEO2](https://www.friendlyarm.com/index.php?route=product/product&path=69&product_id=180)
 - [NanoPi NEO Core-LTS](https://www.friendlyarm.com/index.php?route=product/product&path=69&product_id=212)
