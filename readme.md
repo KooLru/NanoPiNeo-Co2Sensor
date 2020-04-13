@@ -18,6 +18,6 @@ Contains MH-Z19B, SI7021 and PCB 2.4GHz antenna.
 ## Buying guide
 - MH-Z19B
 - SI7021
-- 1x12 pinheader https://l.kool.ru/hdrf1r
-- 2x12 pinheader https://l.kool.ru/hdrf1r
-- IPX ( MHF4 IPEX MHF) pigtail 10 cm https://l.kool.ru/pgtipx
+- [1x12 pinheader](https://l.kool.ru/hdrf1r)
+- [2x12 pinheader](https://l.kool.ru/hdrf1r)
+- [IPX ( MHF4 IPEX MHF) pigtail 10 cm](https://l.kool.ru/pgtipx)
