@@ -57,3 +57,8 @@ tion.mqtt.py
 ...
 
 6 PROFIT!
+
+## Donation
+If this project help you, you can give me a cup of coffee | beer | vodka :)
+
+[![Donate](https://img.shields.io/badge/Donate-Yandex%20Money-blue.svg)](https://money.yandex.ru/to/41001197672478)
