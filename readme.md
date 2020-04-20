@@ -29,31 +29,30 @@ Contains MH-Z19B, SI7021 and PCB 2.4GHz antenna.
 
 1. install [PIP](https://pip.pypa.io/en/stable/installing/)
 
-'''
+```
 apt install python3-pip
-'''
+```
 
 2. install additional modules for [bluepy](https://pypi.org/project/bluepy/)
 
-'''
+```
 sudo apt-get install libglib2.0-dev python3-dev
-'''
+```
 
 3. Install [Python](https://www.python.org/) modules
 
-'''
+```
 pip3 install setuptools wheel bluepy smbus si7021 mh-z19 paho-mqtt
-'''
+```
 
 4. Install MQTT Gate script
 
-'''
+```
 tion.mqtt.py
-'''
+```
 
 5. Create service
 
 ...
 
 6 PROFIT!
-
