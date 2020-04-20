@@ -1,4 +1,5 @@
 # NanoPI CO2 Sensor hat
+![MVP-DIY](images/mvp-diy.jpg)
 
 ## Introduction
 NanoPI CO2 Sensor hat is a expansion board which has the same dimension as that of a NanoPi NEO/Air and can be stacked on:
