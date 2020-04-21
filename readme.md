@@ -11,6 +11,10 @@ NanoPI CO2 Sensor hat is a expansion board which has the same dimension as that 
 
 Contains MH-Z19B, SI7021 and PCB 2.4GHz antenna.
 
+# PCB
+![TOP](images/pcb-rev1-top.png) ![Bottom](images/pcb-rev1-bottom.png)
+
+
 ## Hardware Spec
 - MH-Z19B
 - SI7021
