@@ -15,7 +15,7 @@ Contains MH-Z19B, SI7021 and PCB 2.4GHz antenna.
 ![TOP](images/pcb-rev1-top.png) ![Bottom](images/pcb-rev1-bottom.png)
 
 ## Parts
-- **MH-Z19B** [AliExpress](https://buyeasy.by/redirect/cpa/o/pwrb51ps5k89nhkhnudr8rkgoolhpres/?to=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F32946106807.html) [Datasheet](https://www.winsen-sensor.com/d/files/infrared-gas-sensor/mh-z19b-co2-ver1_0.pdf)
+- **MH-Z19B** sensor | [AliExpress](https://buyeasy.by/redirect/cpa/o/pwrb51ps5k89nhkhnudr8rkgoolhpres/?to=https%3A%2F%2Fwww.aliexpress.com%2Fitem%2F32946106807.html) | [Datasheet](https://www.winsen-sensor.com/d/files/infrared-gas-sensor/mh-z19b-co2-ver1_0.pdf)
 
 MH-Z19B NDIR infrared gas module is a common type, small size sensor, using non-dispersive infrared (NDIR)
 principle to detect the existence of CO 2 in the air, with good selectivity, non-oxygen dependent and long
@@ -23,7 +23,7 @@ life. Built-in temperature compensation; and it has UART output and PWM output. 
 tight integration of mature infrared absorbing gas detection technology, precision optical circuit design and
 superior circuit design
 
-- **SI7021** [AliExpress](https://l.kool.ru/si7021) [Datasheet](https://www.silabs.com/documents/public/data-sheets/Si7021-A20.pdf)
+- **SI7021** sensor| [AliExpress](https://l.kool.ru/si7021) | [Datasheet](https://www.silabs.com/documents/public/data-sheets/Si7021-A20.pdf)
 
 The Si7021 I2C Humidity and Temperature Sensor is a monolithic CMOS IC integrating humidity and temperature sensor elements, an analog-to-digital converter, signal processing, calibration data, and an I2C Interface. The patented use of industry-standard, low-K polymeric dielectrics for sensing humidity enables the construction of low-power, monolithic CMOS Sensor ICs with low drift and hysteresis, and excellent long term stability.
 
